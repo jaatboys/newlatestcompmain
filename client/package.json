@@ -1,0 +1,66 @@
+{
+  "name": "codeexampler",
+  "version": "0.1.0",
+  "homepage": "http://www.codeexampler.com/",
+  "private": true,
+  "proxy": "http://localhost:8080",
+  "dependencies": {
+    "@headlessui/react": "^1.7.7",
+    "@ramonak/react-progress-bar": "^5.0.3",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "compile-run": "^2.3.4",
+    "helmet": "^6.0.1",
+    "prismjs": "^1.29.0",
+    "react": "^18.2.0",
+    "react-circular-progressbar": "^2.1.0",
+    "react-custom-scrollbars-2": "^4.5.0",
+    "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0",
+    "react-icons": "^4.7.1",
+    "react-markdown": "^8.0.5",
+    "react-modal": "^3.16.1",
+    "react-router-dom": "^6.6.1",
+    "react-scripts": "5.0.1",
+    "react-share": "^4.4.1",
+    "react-simple-code-editor": "^0.13.1",
+    "react-syntax-highlighter": "^15.5.0",
+    "reactjs-popup": "^2.0.5",
+    "styled-components": "^6.1.0",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@babel/plugin-transform-private-property-in-object": "^7.24.7",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.20",
+    "tailwind-scrollbar": "^2.1.0",
+    "tailwindcss": "^3.2.4",
+    "typescript": "^5.1.6"
+  }
+}

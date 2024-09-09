@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cffaa8ec.css",
+    "main.js": "/static/js/main.623a4536.js",
+    "static/js/453.56679975.chunk.js": "/static/js/453.56679975.chunk.js",
+    "static/media/CodeExamplerPageNotFound.png": "/static/media/CodeExamplerPageNotFound.7a8bce6408b0f899d8e4.png",
+    "static/media/cover.png": "/static/media/cover.80787d0943cacce48bdf.png",
+    "static/media/profile.png": "/static/media/profile.67d9edfb92b6d66049cb.png",
+    "static/media/pythonBigLogo.png": "/static/media/pythonBigLogo.86ec5154da000fd7bda9.png",
+    "static/media/java.png": "/static/media/java.184d4c119e2f9cff081b.png",
+    "static/media/RProgramminglanguage.png": "/static/media/RProgramminglanguage.7a75d60a1ca6d1a6c922.png",
+    "static/media/htmlLogo.png": "/static/media/htmlLogo.e0e144396b9f03d3ed80.png",
+    "static/media/Clanguage.png": "/static/media/Clanguage.272d1cfdb06887e8671d.png",
+    "static/media/cplusLogo.png": "/static/media/cplusLogo.fb869ef9e3d7a273ea77.png",
+    "static/media/Csharp_Logo.png": "/static/media/Csharp_Logo.a394f2e74e437885cfb9.png",
+    "static/media/phpLogo.png": "/static/media/phpLogo.e478c11334b97ae1d2be.png",
+    "static/media/ts5.jpg": "/static/media/ts5.3de901e39b2368e76727.jpg",
+    "static/media/reactLogo.png": "/static/media/reactLogo.6c28f7668f72f2c83e40.png",
+    "index.html": "/index.html",
+    "static/media/golang.svg": "/static/media/golang.c531fe440bd9298991720c0a986c8f7f.svg",
+    "static/media/go.svg": "/static/media/go.97b3c246f53e75b73f41a112b61bea30.svg",
+    "main.cffaa8ec.css.map": "/static/css/main.cffaa8ec.css.map",
+    "main.623a4536.js.map": "/static/js/main.623a4536.js.map",
+    "453.56679975.chunk.js.map": "/static/js/453.56679975.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cffaa8ec.css",
+    "static/js/main.623a4536.js"
+  ]
+}

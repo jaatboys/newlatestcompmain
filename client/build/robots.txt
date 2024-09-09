@@ -1,0 +1,9 @@
+# https://www.robotstxt.org/robotstxt.html
+
+User-agent: *
+Allow: /
+
+# Allow bots to access ads.txt
+Allow: /ads.txt
+
+Sitemap: https://www.codeexampler.com/sitemap.xml
